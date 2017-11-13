@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Roy Jones Jr\\.nuget\\packages\\": {},
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
       "projectName": "ListProcessing",
-      "projectPath": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
-      "packagesPath": "C:\\Users\\Roy Jones Jr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Roy Jones Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -691,8 +691,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

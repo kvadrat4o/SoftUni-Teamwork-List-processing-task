@@ -4,6 +4,7 @@
     using System;
     using System.Linq;
 
+
     public class Engine
     {
         private IInputReader reader;
@@ -24,6 +25,9 @@
             var data = this.reader.ReadLine()
                 .Split()
                 .ToList();
+
+            Console.WriteLine(string.Join(" ",data)); // Will be Refactored
+
 
             while (true) // Termination logic is in ExitCommand
             {
