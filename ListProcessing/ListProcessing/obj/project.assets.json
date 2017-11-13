@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roy Jones Jr\\Desktop\\List Processing\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "projectUniqueName": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
       "projectName": "ListProcessing",
-      "projectPath": "C:\\Users\\Roy Jones Jr\\Desktop\\List Processing\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "projectPath": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
       "packagesPath": "C:\\Users\\Roy Jones Jr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roy Jones Jr\\Desktop\\List Processing\\ListProcessing\\ListProcessing\\obj\\",
+      "outputPath": "C:\\Users\\Roy Jones Jr\\Desktop\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,6 +1,7 @@
 ﻿namespace ListProcessing.Commands
 {
     using System;
+    using System.Collections.Generic;
     using Interfaces;
     using ListProcessing.Helpers;
 
@@ -14,7 +15,7 @@
         {
         }
 
-        public override void Execute(IOutputWriter writer)
+        public override void Execute(IOutputWriter writer, IList<string> data)
         {
             if (this.CmdArgs.Length > 1)
             {

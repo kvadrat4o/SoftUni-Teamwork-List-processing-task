@@ -2,6 +2,7 @@
 {
     using Interfaces;
     using System;
+    using System.Linq;
 
     public class Engine
     {
@@ -20,6 +21,10 @@
 
         private void ProcessCommandsFomUser()
         {
+            var data = this.reader.ReadLine()
+                .Split()
+                .ToList();
+
             while (true) // Termination logic is in ExitCommand
             {
                 var input = this.reader.ReadLine().Split();
@@ -27,7 +32,7 @@
 
                 try
                 {
-                    command.Execute(this.writer);
+                    command.Execute(this.writer, data);
                 }
                 catch (ArgumentException ae)
                 {

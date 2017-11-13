@@ -1,4 +1,5 @@
-﻿using ListProcessing.Interfaces;
+﻿using System.Collections.Generic;
+using ListProcessing.Interfaces;
 
 namespace ListProcessing.Commands
 {
@@ -9,7 +10,7 @@ namespace ListProcessing.Commands
         {
         }
 
-        public override void Execute(IOutputWriter writer)
+        public override void Execute(IOutputWriter writer, IList<string> data)
         {
             throw new System.NotImplementedException();
         }

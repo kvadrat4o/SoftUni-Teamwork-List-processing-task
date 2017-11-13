@@ -1,5 +1,6 @@
 ﻿namespace ListProcessing.Commands
 {
+    using System.Collections.Generic;
     using Interfaces;
 
     public abstract class Command : ICommand
@@ -11,6 +12,6 @@
 
         public string[] CmdArgs { get; set; }
 
-        public abstract void Execute(IOutputWriter writer);
+        public abstract void Execute(IOutputWriter writer, IList<string> data);
     }
 }
