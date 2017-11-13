@@ -60,6 +60,8 @@ o	All tasks should flow during all the states: #  Backlog  In Progress  Fo
 # 6.  Submission
   •	In the README.md file put a link to your Trello project.
   •	Each team member submits the same link!
+# 7.  Trello board
+  https://trello.com/b/yrqoSg1u/list-processing-board-management 
   
 
 
