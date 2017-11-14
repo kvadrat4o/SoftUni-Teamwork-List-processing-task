@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
-using ListProcessing.Interfaces;
-
-namespace ListProcessing.Commands
+﻿namespace ListProcessing.Commands
 {
+    using System.Collections.Generic;
+    using ListProcessing.Interfaces;
+
     class RollRightCommand : Command
     {
         public RollRightCommand(string[] cmdArgs) 
@@ -12,7 +12,10 @@ namespace ListProcessing.Commands
 
         public override void Execute(IOutputWriter writer, IList<string> data)
         {
-            throw new System.NotImplementedException();
+            data.Insert(0, data[data.Count - 1]);
+            data.RemoveAt(data.Count - 1);
+
+            writer.WriteLine(string.Join(" ", data));
         }
     }
 }
