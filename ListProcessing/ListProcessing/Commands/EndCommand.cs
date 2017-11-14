@@ -7,8 +7,9 @@
 
     public class EndCommand : Command
     {
+        private const int CmdArgsRequiredLengthLength = 1;
         private const string TerminatingCommand = "end";
-        private const string SuccessExecutionMessage = "Finished";
+        private const string FinishExecutionMessage = "Finished";
 
         public EndCommand(string[] cmdArgs) 
             : base(cmdArgs)
@@ -17,14 +18,14 @@
 
         public override void Execute(IOutputWriter writer, IList<string> data)
         {
-            if (this.CmdArgs.Length > 1)
+            if (this.CmdArgs.Length != 1)
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
 
             if (this.CmdArgs[0] == TerminatingCommand)
             {
-                writer.WriteLine(SuccessExecutionMessage);
+                writer.WriteLine(FinishExecutionMessage);
                 Environment.Exit(Environment.ExitCode);
             }
 

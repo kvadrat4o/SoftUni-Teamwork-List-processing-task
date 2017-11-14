@@ -32,10 +32,10 @@
             while (true) // Termination logic is in ExitCommand
             {
                 var input = this.reader.ReadLine().Split();
-                var command = this.commandInterpreter.ExecuteCommand(input);
 
                 try
                 {
+                    var command = this.commandInterpreter.ExecuteCommand(input);
                     command.Execute(this.writer, data);
                 }
                 catch (ArgumentException ae)

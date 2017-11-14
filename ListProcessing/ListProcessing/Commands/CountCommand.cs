@@ -8,6 +8,8 @@
 
     public class CountCommand : Command
     {
+        private const int CmdArgsRequiredLengthLength = 2;
+
         public CountCommand(string[] cmdArgs) 
             : base(cmdArgs)
         {
@@ -15,7 +17,7 @@
 
         public override void Execute(IOutputWriter writer, IList<string> data)
         {
-            if (this.CmdArgs.Length < 2)
+            if (this.CmdArgs.Length != CmdArgsRequiredLengthLength)
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
