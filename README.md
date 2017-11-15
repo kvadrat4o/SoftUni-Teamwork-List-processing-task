@@ -1,8 +1,9 @@
 # SoftUni-Teamwork-List-processing-task
+# Project management - https://trello.com/b/yrqoSg1u/list-processing-board-management
 # 1.  Team members
   1.1 Dimitar Vasilev - https://github.com/kvadrat4o
   1.2 Dimitar Radkov - 
-  1.3 Radoslav Astradjiev - 
+  1.3 Radoslav Astardzhiev - https://github.com/RAstardzhiev
 # 2.  General description - 
 Design and implement a console-based application for list processing. It should enter a list of strings from the console and continuously execute commands (like add / remove / replace, invert) over the list.
 # 3.	Commands Description
