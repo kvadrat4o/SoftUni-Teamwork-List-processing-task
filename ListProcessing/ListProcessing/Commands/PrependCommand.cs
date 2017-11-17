@@ -19,12 +19,9 @@
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
-            if (this.CmdArgs[0] != "prepend")
-            {
-                throw new ArgumentException(ExceptionMessages.InvalidCommandExceptionMessage);
-            }
+            
             data.Insert(0, this.CmdArgs[1]);
-            writer.WriteLine(String.Join(", ", data));
+            writer.WriteLine(String.Join(" ", data));
         }
     }
 }

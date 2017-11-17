@@ -19,12 +19,9 @@
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
-            if (this.CmdArgs[0] != "append")
-            {
-                throw new ArgumentException(ExceptionMessages.InvalidCommandExceptionMessage);
-            }
+
             data.Add(this.CmdArgs[1]);
-            writer.WriteLine(String.Join(", ",data));
+            writer.WriteLine(String.Join(" ",data));
         }
     }
 }

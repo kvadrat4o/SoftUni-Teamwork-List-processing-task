@@ -22,13 +22,9 @@ namespace ListProcessing.Commands
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
-            if (this.CmdArgs[0] != "sort")
-            {
-                throw new ArgumentException(ExceptionMessages.InvalidCommandExceptionMessage);
-            }
             
             data = data.OrderBy(s => s).ToList();
-            writer.WriteLine(String.Join(", ", data));
+            writer.WriteLine(String.Join(" ", data));
         }
     }
 }
