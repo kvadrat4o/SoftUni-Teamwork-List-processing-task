@@ -42,3 +42,14 @@ C:\Users\Roy Jones Jr\Desktop\SoftUni-Teamwork-List-processing-task\SoftUni-Team
 C:\Users\Roy Jones Jr\Desktop\SoftUni-Teamwork-List-processing-task\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfo.cs
 C:\Users\Roy Jones Jr\Desktop\SoftUni-Teamwork-List-processing-task\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.dll
 C:\Users\Roy Jones Jr\Desktop\SoftUni-Teamwork-List-processing-task\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.pdb
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.deps.json
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.runtimeconfig.json
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.runtimeconfig.dev.json
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.dll
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.pdb
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.csproj.CoreCompileInputs.cache
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfoInputs.cache
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfo.cs
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.dll
+C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.pdb
