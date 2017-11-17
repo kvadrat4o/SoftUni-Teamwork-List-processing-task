@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dvasilev\\.nuget\\packages\\": {},
+    "C:\\Users\\Home\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvasilev\\Documents\\GitHub\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "projectUniqueName": "E:\\SoftUni\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
       "projectName": "ListProcessing",
-      "projectPath": "C:\\Users\\dvasilev\\Documents\\GitHub\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
-      "packagesPath": "C:\\Users\\dvasilev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvasilev\\Documents\\GitHub\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\obj\\",
+      "projectPath": "E:\\SoftUni\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\ListProcessing.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "E:\\SoftUni\\SoftUni-Teamwork-List-processing-task\\ListProcessing\\ListProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

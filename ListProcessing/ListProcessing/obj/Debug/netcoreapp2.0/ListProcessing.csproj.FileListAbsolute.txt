@@ -53,3 +53,14 @@ C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListPro
 C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfo.cs
 C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.dll
 C:\Users\dvasilev\Documents\GitHub\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.pdb
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.deps.json
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.runtimeconfig.json
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.runtimeconfig.dev.json
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.dll
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\bin\Debug\netcoreapp2.0\ListProcessing.pdb
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.csprojResolveAssemblyReference.cache
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.csproj.CoreCompileInputs.cache
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfoInputs.cache
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.AssemblyInfo.cs
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.dll
+E:\SoftUni\SoftUni-Teamwork-List-processing-task\ListProcessing\ListProcessing\obj\Debug\netcoreapp2.0\ListProcessing.pdb

@@ -20,9 +20,6 @@ namespace ListProcessing.Commands
 
             bool validParse = int.TryParse(this.CmdArgs[1], out index);
 
-
-            string item = this.CmdArgs[2];
-
             if (validParse)
             {
                 if (index < 0 || index >= data.Count)
@@ -35,7 +32,7 @@ namespace ListProcessing.Commands
                 {
                     throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
                 }
-                data.Insert(index, item);
+                data.Insert(index, this.CmdArgs[2]);
                 writer.WriteLine(string.Join(" ", data));
                 
             }
@@ -43,15 +40,6 @@ namespace ListProcessing.Commands
             {
                 throw new ArgumentException(ExceptionMessages.InvalidCommandParametersExceptionMessage);
             }
-           
-
-            
-
-        
-
-
-
-
 
         }
     }

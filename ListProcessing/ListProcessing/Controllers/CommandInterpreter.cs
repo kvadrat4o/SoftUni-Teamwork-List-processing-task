@@ -51,8 +51,18 @@
                 return this.ExecuteCommand(cmdArgs, cmdNameWordCount);
             }
 
-            var commandType = commands[0];
+            Type commandType;
 
+            try
+            {
+                commandType = commands[0];
+            }
+            catch (Exception)
+            {
+
+                throw new ArgumentException(ExceptionMessages.InvalidCommandExceptionMessage);
+            }
+          
             // Create Instance
             var cmd = (T)Activator.CreateInstance(commandType, new[] { cmdArgs });
             return cmd;
